@@ -66,7 +66,7 @@ export default defineSiteConfig({
       icon: 'i-ri-twitter-line',
       color: '#1da1f2',
     },
-	  {
+	{
 	    name: 'Instagram',
 	    link: 'https://www.instagram.com/niufuyu_cn/',
 	    icon: 'i-ri-instagram-line',
@@ -77,13 +77,13 @@ export default defineSiteConfig({
 	    link: 'https://www.facebook.com/niufuyu',
 	    icon: 'i-ri-facebook-circle-line',
 	    color: 'blue',
-	  },
-	  {
+	},
+	{
 	    name: 'Reddit',
 	    link: 'https://www.reddit.com/user/NiuFuyu',
 	    icon: 'i-ri-reddit-line',
 	    color: 'red',
-	  },
+	},
   	{
 	    name: 'Twitch',
 	    link: 'https://www.twitch.tv/nameflying_cn',
@@ -95,7 +95,7 @@ export default defineSiteConfig({
 	    link: 'https://zh-cn.namemc.com/profile/NameFlying.1',
 	    icon: 'i-ri-gamepad-line',
 	    color: 'green',
-	  },
+	},
   	{
 	    name: 'Telegram',
 	    link: 'https://t.me/NIUTECHAT_CN',
@@ -113,7 +113,7 @@ export default defineSiteConfig({
 	    link: 'https://discord.gg/8nNJaBJc5G',
 	    icon: 'i-ri-discord-line',
 	    color: '#5A6DE2',
-	  },
+	},
     {
       name: 'E-Mail',
       link: 'mailto:me@off.cx',
