@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>月光小镇</title>
+        <link>https://blog.off.cx/</link>
+        <description>月光小镇，一个破破的小镇.</description>
+        <lastBuildDate>Sun, 19 Feb 2023 16:39:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>月光小镇</title>
+            <url>https://blog.off.cx/./avatar.jpg</url>
+            <link>https://blog.off.cx/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2023 © Niute Fony</copyright>
+        <atom:link href="https://blog.off.cx/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>https://blog.off.cx/posts/hello-world</link>
+            <guid>https://blog.off.cx/posts/hello-world</guid>
+            <pubDate>Sun, 19 Feb 2023 16:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check [documentation](<a href="https://hex">https://hex</a></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[看电影不求人珍藏网站分享！]]></title>
+            <link>https://blog.off.cx/posts/movie</link>
+            <guid>https://blog.off.cx/posts/movie</guid>
+            <pubDate>Sun, 19 Feb 2023 16:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p>哔嘀影视：<a href="https://www.btbdys.com/">https://www.btbdys.com/</a></p>
+<p>注视影视：[<a href="https://gaze.run/">https://gaze.run/</a>](<a href="https://gaze.run/">https://gaze.run/</a></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[[MPT]一个可以给你外包MCMOD和插件的网站演示]]></title>
+            <link>https://blog.off.cx/posts/mpt</link>
+            <guid>https://blog.off.cx/posts/mpt</guid>
+            <pubDate>Sun, 19 Feb 2023 16:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><a href="https://off.cx/posts/mpt-introduction/">点击查看 MPT 介绍</a></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[[MPT]一个免费为MC玩家打造mod/插件的组织]]></title>
+            <link>https://blog.off.cx/posts/mpteam</link>
+            <guid>https://blog.off.cx/posts/mpteam</guid>
+            <pubDate>Sun, 19 Feb 2023 16:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p><a href="https://off.cx/posts/mpt-introduction/">点击查看 MPT 介绍</a></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[Yun - Markdown Dome]]></title>
+            <link>https://blog.off.cx/posts/yun-markdown</link>
+            <guid>https://blog.off.cx/posts/yun-markdown</guid>
+            <pubDate>Sun, 19 Feb 2023 16:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Blockquote</h2>
+<blockquote>
+<p>Primary</p>
+</blockquote>
+<div class="success">
+<blockquote>
+<p>Success</p>
+</blockquote>
+</div>
+<div class="warning">
+<blockquote>
+<p>Warnin</p>
+</blockquote>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[如何用命令行启动 Minecraft ？]]></title>
+            <link>https://blog.off.cx/posts/start-Minecraft-from-the-command-line</link>
+            <guid>https://blog.off.cx/posts/start-Minecraft-from-the-command-line</guid>
+            <pubDate>Sat, 18 Feb 2023 00:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>前言</h2>
+<p>最近，S*网易严厉打压了第三方启动器，包括PCL、BakaXL等，随后又想将一名合法运营的腐竹送了进去，按照如此事态继续发展下去，各位MC国际版(Java版)玩家可能就无法继续使用第三方启动器了。所以，今天就来教大家制作一个命令脚本，来应该将来可能到来的最坏结果。</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[Spotify付费用户达到2.05亿名远超竞争对手 但目前仍然是亏损的]]></title>
+            <link>https://blog.off.cx/posts/Spotify-2022-Financial-Report</link>
+            <guid>https://blog.off.cx/posts/Spotify-2022-Financial-Report</guid>
+            <pubDate>Wed, 01 Feb 2023 19:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p>作为全球最流行的流媒体音乐服务 Spotify 目前公布了 2022Q4 财报，最新数据显示 Spotify 付费用户已经达到 2.05 亿，去年 12 月的时候付费用户突破 2 亿，这意味着两个月左右 Spotify 付费用户又涨了 500 万名。</p>
+<p>由广告支持的免费版订阅用户达到 2.95 亿，较 2022Q3 的 2.73 亿增长了 8%。月活跃用户总数为 4.89 亿名，比 2022Q3 的 2.73 亿名增长了 7%。</p>
+<p><img src="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/spotify.png" alt="Spotify"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[你好,2023!]]></title>
+            <link>https://blog.off.cx/posts/Hi2023</link>
+            <guid>https://blog.off.cx/posts/Hi2023</guid>
+            <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>2022再见，2023你好</h2>
+<p>岁月更迭，四季轮回，不知不觉，2022就走到了年末。三毛曾说：岁月极美，在于于它必然的流逝。春花，秋月，夏日，冬雪。人生就像一列远去的火车，只能朝前;岁月是一场有去无回的旅行，无法重来。撕下2022最后一页日历，让我们轻轻地对自己和世界说一句：2022再见，2023你好!</p>
+<p><img src="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/hi2023.png" alt="Hi 2023" title="Hi2023"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[免费匿名电话号码——SafeUM]]></title>
+            <link>https://blog.off.cx/posts/SafeUM</link>
+            <guid>https://blog.off.cx/posts/SafeUM</guid>
+            <pubDate>Fri, 09 Dec 2022 23:27:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p>每个 SafeUM 用户都会获得免费的匿名电话号码，获取方法非常简单！你只要安装 SafeUM App 即可，你甚至不需要用邮箱。</p>
+<h2>简介</h2>
+<p>SafeUM官方网站：<a href="https://safeum.com/">https://safeum.com/</a><br>
+下载的时候可以在官网直接下载，但是iOS需要美区Apple ID，安卓需要在Google play下载，若你没有Google play，找一个apk文件也可以直接安装。</p>
+<p><strong><strong>小提示</strong></strong> ： SafeUM的logo是一个橙色的锁，其他均为假冒，请认准下方图标：<br>
+<img src="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/SafeUM.png" alt="SafeUM" title="SafeUM"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hexo 博客美化合集]]></title>
+            <link>https://blog.off.cx/posts/hexo-beautify</link>
+            <guid>https://blog.off.cx/posts/hexo-beautify</guid>
+            <pubDate>Sun, 20 Nov 2022 17:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Hexo 博客美化合集</h1>
+<p><img src="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/hexo-beautify.jpg" alt="Hexo Beautify" title="Hexo Beautify"></p>
+<p><s>纪</s>技术交流群：<a href="https://t.me/NIUTECHAT_CN" title="Niuteの交流群">Telegram</a></p>
+<p>本文将讲述一些Hexo博客的美化，不同主题可能方法有些不同，本文章会不定时进行更新。文章涉及有关参考资料、教程、链接如有侵权请联系我删除！</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[使用 Github Actions 自动部署 Hexo]]></title>
+            <link>https://blog.off.cx/posts/github-action-hexo</link>
+            <guid>https://blog.off.cx/posts/github-action-hexo</guid>
+            <pubDate>Tue, 08 Nov 2022 22:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[<p>以后就不需要再自己部署博客了</p>
+<p>![Hexo &amp; Github](<a href="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/Hexo-Github.png">https://s-sh-4608-picbucket.oss.dogecdn.com/pic/Hexo-Github.png</a> &quot;He</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[Windows实用工具分享(持续更新中)]]></title>
+            <link>https://blog.off.cx/posts/winsoftwares</link>
+            <guid>https://blog.off.cx/posts/winsoftwares</guid>
+            <pubDate>Tue, 08 Nov 2022 22:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/winsoftwares.png" alt="Windows softwares" title="Windows softwares"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[不仅是 outlook.com | 申请与众不同的 Outlook 邮箱]]></title>
+            <link>https://blog.off.cx/posts/how-to-sign-up-different-outlook-email</link>
+            <guid>https://blog.off.cx/posts/how-to-sign-up-different-outlook-email</guid>
+            <pubDate>Tue, 08 Nov 2022 22:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<p>不拘泥于传统 Outlook，申请一个与众不同的 <a href="http://Outlook.it/Outlook.ie/Outlook.fr">Outlook.it/Outlook.ie/Outlook.fr</a> 邮箱。<br>
+![Outlook](<a href="https://s-sh-4608-picbucket">https://s-sh-4608-picbucket</a></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[英语作文秘籍]]></title>
+            <link>https://blog.off.cx/posts/English-composition</link>
+            <guid>https://blog.off.cx/posts/English-composition</guid>
+            <pubDate>Tue, 08 Nov 2022 22:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/English.jpg" alt="English.jpg" title="English.jpg"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[初中化学中考知识点]]></title>
+            <link>https://blog.off.cx/posts/junior-high-school-chemistry</link>
+            <guid>https://blog.off.cx/posts/junior-high-school-chemistry</guid>
+            <pubDate>Tue, 08 Nov 2022 22:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>初中化学中考知识点</h1>
+<p><img src="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/huaxue.jpg" alt="化学" title="化学"></p>
+<h3>一、基本概念：</h3>
+<p>1、</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[MarkDown基本语法]]></title>
+            <link>https://blog.off.cx/posts/how-to-use-markdown</link>
+            <guid>https://blog.off.cx/posts/how-to-use-markdown</guid>
+            <pubDate>Tue, 08 Nov 2022 21:58:42 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="https://off.cx/img/markdown.jpg" alt="Markdown" title="Markdown"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[Valaxy —— 快到没边的全新静态博客框架]]></title>
+            <link>https://blog.off.cx/posts/hexo-to-valaxy</link>
+            <guid>https://blog.off.cx/posts/hexo-to-valaxy</guid>
+            <pubDate>Tue, 08 Nov 2022 21:53:57 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>前言</h2>
+<p>最近我看到 <a href="https://bigcake.cakemc.top">BigCake</a> 在测试 <a href="https://valaxy.site">Valaxy</a> ，我看他搭的<a href="https://valaxy.bigcake.cakemc.top">测试站</a>还不错（<s>其实就是看上了 <a href="https://valaxy.site">Valaxy</a> 的翻译功能</s>）,听说速度也很快，所以我也想整一个了（</p>
+<p><img src="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/rnwtq.jpg" alt="整一个" title="整一个"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[关于我 Minecraft Live 投票发生服务器错误这件事]]></title>
+            <link>https://blog.off.cx/posts/minecraft-live-2022</link>
+            <guid>https://blog.off.cx/posts/minecraft-live-2022</guid>
+            <pubDate>Sun, 23 Oct 2022 20:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[<p>断更理由（<s>狡辩ing</s>）：最近实在是太忙了，基本上每天作业都得写到12:00，甚至有时候要到次日1:00。</p>
+<p>最近 <a href="https://www.minecraft.net/" title="Minecraft">Minecraft</a> 举办了2022年的 <a href="https://www.minecraft.net/zh-hans/live">Minecraft Live</a> ，就在美国东部夏令时间 10 月 15 日 中午 12 点直播（虽然我没看）。</p>
+<p><img src="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/minecraft-live.webp" alt="Minecraft Live" title="Minecraft Live"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[台湾洞穴发现6000年前头骨或证实原住民传说]]></title>
+            <link>https://blog.off.cx/posts/6000-years-old-skull-in-Taiwan</link>
+            <guid>https://blog.off.cx/posts/6000-years-old-skull-in-Taiwan</guid>
+            <pubDate>Sun, 23 Oct 2022 12:34:43 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="https://s-sh-4608-picbucket.oss.dogecdn.com/pic/6000-year-old-skull.jpg" alt="台湾洞穴发现6000年前头骨" title="台湾洞穴发现6000年前头骨"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[关于]]></title>
+            <link>https://blog.off.cx/posts/about-me</link>
+            <guid>https://blog.off.cx/posts/about-me</guid>
+            <pubDate>Sat, 24 Sep 2022 20:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=420 height=86 src="https://blog.off.cx//music.163.com/outchain/player?type=2&id=1404469236&auto=0&height=66"></iframe>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[整理亿些常用的脚本（持续更新中）]]></title>
+            <link>https://blog.off.cx/posts/useful-script</link>
+            <guid>https://blog.off.cx/posts/useful-script</guid>
+            <pubDate>Sun, 18 Sep 2022 20:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="https://off.cx/img/Linux-command.png" alt="Linux命令" title="Linux命令"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[打开任务管理器的n种方式？]]></title>
+            <link>https://blog.off.cx/posts/how-to-open-task-manager</link>
+            <guid>https://blog.off.cx/posts/how-to-open-task-manager</guid>
+            <pubDate>Sun, 18 Sep 2022 15:53:36 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>前言</h3>
+<p>任务管理器想必大家都太熟悉不过了（如果你用<code>MacOS</code> or <code>Linux</code>就当我没说过），那么你知道几种打开任务管理器的方法呢？<br>
+<img src="https://off.cx/img/taskmgr.png" alt="任务管理器"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[什么？你会不会用 HMCL 玩MC？]]></title>
+            <link>https://blog.off.cx/posts/how-to-use-HMCL</link>
+            <guid>https://blog.off.cx/posts/how-to-use-HMCL</guid>
+            <pubDate>Sun, 18 Sep 2022 15:52:01 GMT</pubDate>
+            <content:encoded><![CDATA[<p>用 HMCL 启动 Minecraft，多是一件美事啊（<s>虽然博主用MultiMC</s>）。</p>
+<p><img src="https://off.cx/img/HMCL.jpg" alt="HMCL" title="HMCL"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[Phigros v2.3.3 曲目信息]]></title>
+            <link>https://blog.off.cx/posts/phigros-2.3.3</link>
+            <guid>https://blog.off.cx/posts/phigros-2.3.3</guid>
+            <pubDate>Sun, 18 Sep 2022 15:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>Phigros游戏介绍</h1>
+<p>Phigros是由Pigeon Games来主导开发研制的音乐节奏类手游，Pigeon Games为了让无论有没有玩过音乐节奏类手游的玩家们都可以感受音乐节奏类手游的好玩之处和吸引人的地方来制作了Phigros。Phigros为玩家们准备了一些让音乐类游戏爱好者喜欢的音乐歌曲，让你可以一一的进行挑战。挑战的难度也会因为音乐整体的歌曲节奏而来提升，如果你的手速和反应并不是特别的快，那么建议你可以选择一些节奏比较缓慢的歌曲来慢慢的上手游玩，然后来慢慢增加歌曲的难度。</p>
+<p><img src="https://off.cx/img/phigros.jpg" alt="Phigros" title="Phigros"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[验证码小工具：与烦人的验证码说再见]]></title>
+            <link>https://blog.off.cx/posts/bye-captcha</link>
+            <guid>https://blog.off.cx/posts/bye-captcha</guid>
+            <pubDate>Sun, 04 Sep 2022 23:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>验证码小工具</h1>
+<p>Buster、Noptcha 是两款全平台浏览器插件，可自动解决验证码，为用户省心省时。</p>
+<p>验证码最初是为了分辨真人和机器人而生，而目前的 ReCAPTCHA v2 的街景等图片验</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[[MPT]一个免费为MC玩家打造mod/插件的组织]]></title>
+            <link>https://blog.off.cx/posts/mpt-introduction</link>
+            <guid>https://blog.off.cx/posts/mpt-introduction</guid>
+            <pubDate>Mon, 22 Aug 2022 00:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img src="https://www.minept.top/frontend/img/banner-2.jpg" alt="MPT" title="MPT"></p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[使用免费的Cloudflare保护Minecraft服务器]]></title>
+            <link>https://blog.off.cx/posts/protect-mc-server</link>
+            <guid>https://blog.off.cx/posts/protect-mc-server</guid>
+            <pubDate>Mon, 22 Aug 2022 00:02:48 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>前言</h1>
+<blockquote>
+<p>***网络攻击无处不在，最近Apache Log4j病毒在JAVA中肆无忌惮的传播，对我们小服主造成了极大的危害，还有网络DDoS等等，心血来潮给大家写一个教程关于保护自己的Minec</p>
+</blockquote>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[静态博客也能有自己的搜索引擎了？——给Hexo加装Algolia实现增加搜索文章功能！]]></title>
+            <link>https://blog.off.cx/posts/hexo-install-algolia</link>
+            <guid>https://blog.off.cx/posts/hexo-install-algolia</guid>
+            <pubDate>Wed, 17 Aug 2022 13:34:11 GMT</pubDate>
+            <content:encoded><![CDATA[<h1>前言</h1>
+<p>最近又去看了一下<a href="https://yun.yunyoujun.cn/guide/third-party-support.html#algolia">Yun主题的文档</a>，发现是有搜索引擎的支</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>https://blog.off.cx/posts/hello-valaxy</link>
+            <guid>https://blog.off.cx/posts/hello-valaxy</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Niute Fony)</author>
+        </item>
+    </channel>
+</rss>
