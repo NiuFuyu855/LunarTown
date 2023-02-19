@@ -1,0 +1,6 @@
+# you can custom locale
+intro:
+  desc: Valaxy Template
+  hi: Hello, Valaxy!
+button:
+  about: About
