@@ -13,7 +13,8 @@
   "dependencies": {
     "valaxy": "0.14.10",
     "valaxy-addon-algolia": "^0.0.3",
-    "valaxy-theme-yun": "0.14.10"
+    "valaxy-theme-yun": "0.14.10",
+    "vue-gtag-next": "^1.14.0"
   },
   "devDependencies": {
     "typescript": "^4.8.4"
