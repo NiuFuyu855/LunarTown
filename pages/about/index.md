@@ -68,7 +68,7 @@ Hei! Guy!
 
 [Telegram Channel](https://t.me/Niute_CN)
 
-[QQ](tencent://Message/?Uin=3327223191&websiteName=qzone.qq.com&Menu=yes "啥也不是の屑")
+[QQ](http://wpa.qq.com/msgrd?v=3&uin=3327223191&site=qq&menu=yes" "啥也不是の屑")
 
 [Twitter](https://twitter.com/NiuFuyu_CN)
 
@@ -87,4 +87,4 @@ Hei! Guy!
 
 彳亍，就这样吧......
 
-{% meting "1404469236" "netease" "song" "theme:#C20C0C" %}
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=420 height=86 src="//music.163.com/outchain/player?type=2&id=1404469236&auto=0&height=66"></iframe>

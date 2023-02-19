@@ -58,9 +58,9 @@ updated: '2022-09-18 15:52:01'
 
 ![](https://pic.rmb.bdstatic.com/bjh/53406e28cff59f7f91a0ce89be7a4989.png)
 
-{% raw %}<article class="message is-info"><div class="message-body">{% endraw %}
+<article class="message is-info"><div class="message-body">
 提示：Mojang 账户马上就要无法游戏，所以建议各位仍在使用 Mojang 账户登录的玩家尽快到 [Minecraft 官网](https://minecraft.net)迁移到 Microsoft 账户。
-{% raw %}</div></article>{% endraw %}
+</div></article>
 
 ### 离线模式
 
