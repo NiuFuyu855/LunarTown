@@ -1,13 +1,10 @@
 ---
-abbrlink: 6000-years-old-skull-in-Taiwan
-categories:
-- - 日常
-date: '2022-10-23 12:24:00'
-sticky: ''
+categories: 日常
+date: 2022-10-23
 tags:
-- 科技
+  - 科技
 title: 台湾洞穴发现6000年前头骨或证实原住民传说
-updated: '2022-10-23 12:34:43'
+updated: 2022-10-23
 ---
 ![台湾洞穴发现6000年前头骨](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/6000-year-old-skull.jpg "台湾洞穴发现6000年前头骨")
 

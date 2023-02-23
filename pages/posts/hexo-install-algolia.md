@@ -1,14 +1,13 @@
 ---
-abbrlink: hexo-install-algolia
-categories:
-- 技术分享
-date: '2022-08-17 13:34:10'
+categories: 日常
+date: 2022-08-17
 tags:
-- Hexo
-- Algolia
+  - Hexo
+  - Algolia
 title: 静态博客也能有自己的搜索引擎了？——给Hexo加装Algolia实现增加搜索文章功能！
-updated: '2022-08-17 13:34:11'
----# 前言
+updated: 2022-08-17
+---
+# 前言
 
 最近又去看了一下[Yun主题的文档](https://yun.yunyoujun.cn/guide/third-party-support.html#algolia)，发现是有搜索引擎的支持的，在几个搜索引擎的方案中我选择了Algolia
 

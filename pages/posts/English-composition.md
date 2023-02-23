@@ -1,15 +1,9 @@
 ---
-abbrlink: 204b08c2
-categories:
-- 日常
-- 学习资料
-date: '2022-06-09 21:15:00'
-permalink: posts/English-composition/
-sticky: ''
-tags:
-- 学习资料
+categories: 日常
+date: 2022-06-09
+tags: 学习资料
 title: 英语作文秘籍
-updated: '2022-11-08 22:15:56'
+updated: 2022-11-08
 ---
 ![English.jpg](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/English.jpg "English.jpg")
 

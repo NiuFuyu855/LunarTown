@@ -1,14 +1,12 @@
 ---
-abbrlink: SafeUM
-categories:
-- - 日常
-date: '2022-12-09 23:27:38'
-sticky: ''
+categories: 日常
+date: 2022-12-09
 tags:
-- 白嫖
+  - 白嫖
 title: 免费匿名电话号码——SafeUM
-updated: '2022-12-09 23:27:41'
+updated: 2022-12-09
 ---
+
 每个 SafeUM 用户都会获得免费的匿名电话号码，获取方法非常简单！你只要安装 SafeUM App 即可，你甚至不需要用邮箱。
 
 ## 简介

@@ -6,7 +6,6 @@ categories: Valaxy 笔记
 tags:
   - valaxy
   - 笔记
-top: 1
 ---
 
 ## Valaxy
@@ -14,6 +13,8 @@ top: 1
 Next Generation Static Blog Framework.
 
 Write your first post!
+
+<!-- more -->
 
 ## Usage
 

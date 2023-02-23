@@ -1,15 +1,15 @@
 {
-  "name": "yunyoujun.github.io",
+  "name": "lunartown",
   "version": "2.0.0",
   "private": true,
-  "description": "YunYouJun Blog",
+  "description": "Lunar Town",
   "author": {
-    "email": "me@yunyoujun.cn",
-    "name": "YunYouJun",
-    "url": "https://www.yunyoujun.cn"
+    "email": "me@off.cx",
+    "name": "Niute Fony",
+    "url": "https://blog.off.cx"
   },
   "license": "CC-BY-NC-SA-4.0",
-  "homepage": "https://yunyoujun.cn",
+  "homepage": "https://off.cx",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/YunYouJun/yunyoujun.github.io.git"

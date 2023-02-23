@@ -1,19 +1,14 @@
 ---
-abbrlink: fefd0b93
-categories:
-- - 日常
-  - 游戏
-  - Minecraft
-  - HMCL
-date: '2022-06-06 20:30:00'
-permalink: posts/how-to-use-HMCL/
+categories: 日常
+date: 2022-06-06
 tags:
-- HMCL
-- 教程
-- Minecraft
+  - HMCL
+  - 教程
+  - Minecraft
 title: 什么？你会不会用 HMCL 玩MC？
-updated: '2022-09-18 15:52:01'
+updated: 2022-09-18
 ---
+
 用 HMCL 启动 Minecraft，多是一件美事啊（~~虽然博主用MultiMC~~）。
 
 ![HMCL](https://off.cx/img/HMCL.jpg "HMCL")

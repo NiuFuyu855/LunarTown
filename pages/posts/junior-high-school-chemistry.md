@@ -1,15 +1,10 @@
 ---
-abbrlink: 21cee8
-categories:
-- 日常
-- 学习资料
-date: '2022-06-07 21:19:00'
-permalink: posts/chemistry/
-sticky: ''
+categories: 日常
+date: 2022-06-07
 tags:
-- 学习资料
+  - 学习资料
 title: 初中化学中考知识点
-updated: '2022-11-08 22:11:41'
+updated: 2022-11-08
 ---
 # 初中化学中考知识点
 

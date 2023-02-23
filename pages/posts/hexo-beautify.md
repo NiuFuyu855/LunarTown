@@ -1,14 +1,11 @@
 ---
-abbrlink: hexo-beautify
-categories:
-- - 技术分享
-date: '2022-11-20 17:37:28'
-sticky: ''
+categories: 日常
+date: 2022-11-20
 tags:
-- Hexo
-- 美化
+  - Hexo
+  - 美化
 title: Hexo 博客美化合集
-updated: '2022-11-20 17:45:25'
+updated: 2022-11-20
 ---
 # Hexo 博客美化合集
 

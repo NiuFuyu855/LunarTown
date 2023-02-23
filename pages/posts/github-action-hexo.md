@@ -1,15 +1,12 @@
 ---
-abbrlink: github-action-hexo
-categories:
-- 技术分享
-date: '2022-08-15 17:52:48'
-sticky: ''
+categories: 日常
+date: 2022-08-15
 tags:
-- Hexo
-- Github
-- 博客
+  - Hexo
+  - Github
+  - 博客
 title: 使用 Github Actions 自动部署 Hexo
-updated: '2022-11-08 22:23:44'
+updated: 2022-11-08
 ---
 以后就不需要再自己部署博客了
 
@@ -39,7 +36,7 @@ updated: '2022-11-08 22:23:44'
 
 你需要为 Github Actions 单独配置一个新的秘钥
 
-```bash 生成密钥
+```bash
 ssh-keygen -t rsa -f github-deploy-key
 ```
 
@@ -49,7 +46,7 @@ ssh-keygen -t rsa -f github-deploy-key
 
 打开 blog 仓库，打开 Actions 并创建一个新的 Actions，将内容修改为自己的真实情况并复制到 Actions 中。
 
-```bash Action>folded
+```bash
 name: CI
 
 on:

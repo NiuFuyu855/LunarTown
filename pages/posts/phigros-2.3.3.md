@@ -1,13 +1,11 @@
 ---
-abbrlink: phigros-2.3.3
-categories:
-- 日常
-date: '2022-08-21 22:14:53'
+categories: 日常
+date: 2022-08-21
 tags:
-- Phigros
-- 音游
+  - Phigros
+  - 音游
 title: Phigros v2.3.3 曲目信息
-updated: '2022-09-18 15:47:33'
+updated: 2022-09-18
 ---
 # Phigros游戏介绍
 

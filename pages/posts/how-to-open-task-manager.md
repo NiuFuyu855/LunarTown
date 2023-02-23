@@ -1,14 +1,10 @@
 ---
-abbrlink: 8y9th87
-categories:
-- 日常
-- 教程
-date: '2022-06-25 12:46:37'
-permalink: posts/open-task-manager/
+categories: 日常
+date: 2022-06-25
 tags:
-- 教程
+  - 教程
 title: 打开任务管理器的n种方式？
-updated: '2022-09-18 15:53:36'
+updated: 2022-09-18
 ---
 ### 前言
 

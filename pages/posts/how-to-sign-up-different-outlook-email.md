@@ -1,16 +1,12 @@
 ---
-abbrlink: aeff581d
-categories:
-- 技术分享
-- 教程
-date: '2022-06-13 20:36:00'
-permalink: posts/how-to-sign-up-different-outlook-email/
-sticky: ''
+categories: 日常
+date: 2022-06-13
 tags:
-- Outlook
+  - Outlook
 title: 不仅是 outlook.com | 申请与众不同的 Outlook 邮箱
-updated: '2022-11-08 22:20:50'
+updated: 2022-11-08
 ---
+
 不拘泥于传统 Outlook，申请一个与众不同的 Outlook.it/Outlook.ie/Outlook.fr 邮箱。
 ![Outlook](https://s-sh-4608-picbucket.oss.dogecdn.com/pic/Outlook.png "Outlook")
 

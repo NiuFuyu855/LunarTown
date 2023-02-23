@@ -1,14 +1,11 @@
 ---
-abbrlink: hexo-to-valaxy
-categories:
-- - 日常
-date: '2022-11-06 10:23:37'
-sticky: ''
+categories: 日常
+date: 2022-11-06
 tags:
-- Valaxy
-- 迁移
+  - Valaxy
+  - 迁移
 title: Valaxy —— 快到没边的全新静态博客框架
-updated: '2022-11-08 21:53:57'
+updated: 2022-11-08
 ---
 ## 前言
 

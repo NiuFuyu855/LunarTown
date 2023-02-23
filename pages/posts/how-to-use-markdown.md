@@ -1,18 +1,13 @@
 ---
-abbrlink: 4a098468
-categories:
-- - 日常
+categories: 日常
+date: 2022-06-06
+tags:
   - 教程
   - Markdown
-date: '2022-06-06 20:20:00'
-permalink: posts/how-to-use-markdown/
-sticky: ''
-tags:
-- 教程
-- Markdown
-title: MarkDown基本语法
-updated: '2022-11-08 21:58:42'
+title: MarkDown 基本语法
+updated: 2022-11-08
 ---
+
 ![Markdown](https://off.cx/img/markdown.jpg "Markdown")
 
 <!-- more -->

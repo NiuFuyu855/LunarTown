@@ -1,14 +1,12 @@
 ---
-abbrlink: minecraft-live-2022
-categories:
-- - 游戏
-date: '2022-10-15 21:37:35'
-sticky: ''
+categories: 日常
+date: 2022-10-15
 tags:
 - Minecraft
 title: 关于我 Minecraft Live 投票发生服务器错误这件事
-updated: '2022-10-23 20:16:41'
+updated: 2022-10-23
 ---
+
 断更理由（~~狡辩ing~~）：最近实在是太忙了，基本上每天作业都得写到12:00，甚至有时候要到次日1:00。
 
 最近 [Minecraft](https://www.minecraft.net/ "Minecraft") 举办了2022年的 [Minecraft Live](https://www.minecraft.net/zh-hans/live) ，就在美国东部夏令时间 10 月 15 日 中午 12 点直播（虽然我没看）。

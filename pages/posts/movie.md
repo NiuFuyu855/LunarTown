@@ -1,14 +1,10 @@
 ---
 title: 看电影不求人珍藏网站分享！
-date: 2022-07-21 20:52:51
-categories:
-  - 日常
-  - 分享
+date: 2022-07-21
+categories: 日常
 tags: 
   - 电影
   - 网站
-permalink: posts/movie/
-abbrlink: 9exy08r
 ---
 
 哔嘀影视：[https://www.btbdys.com/](https://www.btbdys.com/)
