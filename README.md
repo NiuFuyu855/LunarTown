@@ -1,15 +1,6 @@
 # Hexo 站点源文件
 
-[![GitHub Pages](https://github.com/YunYouJun/yunyoujun.github.io/workflows/GitHub%20Pages/badge.svg)](https://github.com/YunYouJun/yunyoujun.github.io/actions)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4acb3c9b-fbcd-488e-be70-18942eb2669f/deploy-status)](https://app.netlify.com/sites/yunyoujun/deploys)
-
 Hexo 主题：[Yun](https://github.com/YunYouJun/hexo-theme-yun/)
-
-- 主站：[yunyoujun.cn](https://www.yunyoujun.cn) | [yunyoujun.github.io](https://yunyoujun.github.io)
-- 备用：<https://yunyoujun.netlify.app>
-  - Hexo 版本存档：<https://hexo.yunyoujun.cn>
-- 笔记：<https://notes.yunyoujun.cn>
-- 赞助：<https://sponsors.yunyoujun.cn>
 
 ## Use
 
