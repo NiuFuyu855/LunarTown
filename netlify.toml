@@ -5,7 +5,7 @@
 
 [build]
   publish = "dist"
-  command = "npm i && npm run build"
+  command = "pnpm install --no-frozen-lockfile && npm run build"
 
 [[redirects]]
   from = "/*"
