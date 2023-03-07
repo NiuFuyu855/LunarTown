@@ -1,11 +1,17 @@
 [build.environment]
-  # bypass npm auto install
-  NPM_FLAGS = "--version"
   NODE_VERSION = "16"
 
 [build]
   publish = "dist"
+<<<<<<< Updated upstream
   command = "pnpm install --no-frozen-lockfile && npm run build"
+=======
+<<<<<<< HEAD
+  command = "npm run build"
+=======
+  command = "pnpm install --no-frozen-lockfile && npm run build"
+>>>>>>> fbdf10fa4c1832b02d3cdbdd4a9be21a39ff72af
+>>>>>>> Stashed changes
 
 [[redirects]]
   from = "/*"

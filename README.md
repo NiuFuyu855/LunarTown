@@ -1,5 +1,13 @@
-# Hexo 站点源文件
+# create-valaxy
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+Example: [valaxy.site](https://valaxy.site)
+
+## Usage
+=======
+>>>>>>> Stashed changes
 Hexo 主题：[Yun](https://github.com/YunYouJun/hexo-theme-yun/)
 
 ## Use
@@ -7,137 +15,50 @@ Hexo 主题：[Yun](https://github.com/YunYouJun/hexo-theme-yun/)
 ### 日常发布
 
 发布时，同时推送至 GitHub 与 Coding 的 hexo 分支备份，使用 CI （GitHub Actions） 生成静态页面推送至 GitHub
+>>>>>>> fbdf10fa4c1832b02d3cdbdd4a9be21a39ff72af
 
 ```bash
-npm run backup
-# or
-# yarn backup
-# or
-sh backup.sh
-# sh backup.sh 'change info'
+# install
+npm i
+# or pnpm i
+
+# start
+npm run dev
+# or pnpm dev
 ```
 
-- [Comment | Waline](https://waline.yunyoujun.cn/ui/)
+See `http://localhost:4859/`, have fun!
 
-## BackUp
+### Config
 
-- [GitHub](https://github.com/YunYouJun/yunyoujun.github.io)
-- [Coding](https://e.coding.net/YunYouJun/yunyoujun.coding.me)
+Modify `valaxy.config.ts` to custom your blog.
+
+English & Chinese Docs is coming!
+
+> Wait a minute.
+
+### Docker
 
 ```bash
-git clone https://github.com/YunYouJun/yunyoujun.github.io
-# coding
-git remote add coding https://e.coding.net/YunYouJun/yunyoujun.coding.me.git
+docker build . -t your-valaxy-blog-name:latest
 ```
 
-### 同时推送
+## Structure
 
-```bash
-git remote set-url --add origin https://e.coding.net/YunYouJun/yunyoujun.coding.me.git
-```
+In most cases, you only need to work in the `pages` folder.
 
-## Build
+### Main folders
 
-- [~~yunyoujun.github.io - Travis CI~~](https://www.travis-ci.com/YunYouJun/yunyoujun.github.io)
-- [GitHub Actions](https://github.com/YunYouJun/yunyoujun.github.io/actions): 现已改为使用 GitHub Actions
-
-### Install Theme
-
-```bash
-git clone https://github.com/YunYouJun/hexo-theme-yun themes/yun
-```
-
-> More info about [hexo-theme-yun](https://yun.yunyoujun.cn)
-
-## CDN
-
-### JSDELIVR
-
-[![JSDELIVR](https://www.jsdelivr.com/img/logo-horizontal.svg)](https://www.jsdelivr.com/)
-
-- Prefix: <https://cdn.yunyoujun.cn/>
-
-### 腾讯云
-
-[![Tencent Cloud](https://imgcache.qq.com/open_proj/proj_qcloud_v2/gateway/portal/css/img/nav/logo-bg-color.svg)](https://cloud.tencent.com/)
-
-#### 刷新目录
-
-```bash
-# 注意这里的参数是 Array
-tccli cdn PurgePathCache --Paths '["https://www.yunyoujun.cn/links/"]' --FlushType flush
-```
-
-#### 刷新路径
-
-```bash
-tccli cdn PurgeUrlsCache --Urls '["https://www.yunyoujun.cn/links/index.html"]'
-```
-
-### 又拍云
-
-<a href="https://console.upyun.com/register/?invite=SyeQw09Bz" title="又拍云" target="_blank">
-  <img src="https://cdn.yunyoujun.cn/img/logo/upyun-logo.png" width="100" alt="upyun">
-</a>
-
-图床：又拍云云存储 + PicGo = <https://upyun.yunyoujun.cn>
-
-## Commit Lint
-
-[gitmoji](https://gitmoji.carloscuesta.me/)
-
-```bash
-git commit -m 'xxx'
-```
-
-### 更新博客内容
-
-```bash
-📝 update
-```
-
-### Fixing typos
-
-```bash
-✏️ typo
-```
-
-### UI
-
-```bash
-💄 xxx
-```
-
-### Improving structure / format of the code
-
-```bash
-🎨 xxx
-```
-
-### Fixing CI Build
-
-```bash
-💚 travis
-```
-
-### Changing configuration files
-
-```bash
-🔧 config
-```
+- `pages`: your all pages
+  - `posts`: write your posts here, will be counted as posts
+- `styles`: override theme styles, `index.scss`/`vars.csss`/`index.css` will be loaded automatically
+- `components`: custom your vue components (will be loaded automatically)
+- `layouts`: custom layouts (use it by `layout: xxx` in md)
+- `locales`: custom i18n
 
 ### Other
 
-```bash
-chore(xxx): xxx
-```
-
-## FAQ
-
-### submodule
-
-[.gitmodules](.gitmodules)
-
-```bash
-git submodule add https://github.com/YunYouJun/hexo-theme-yun themes/yun
-```
+- `.vscode`: recommend some useful plugins & settings, you can preview icon/i18n/class...
+- `.github`: GitHub Actions to auto build & deploy to GitHub Pages
+- `netlify.toml`: for [netlify](https://www.netlify.com/)
+- `vercel.json`: for [vercel](https://vercel.com/)
