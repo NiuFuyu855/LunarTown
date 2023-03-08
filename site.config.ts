@@ -3,12 +3,13 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://blog.off.cx',
   lang: 'zh-CN',
-  title: '月光小镇',
+  title: 'Lunar Town',
   author: {
-    name: '月光小镇',
+    name: 'Lunar Town',
 	avatar: 'https://s2.loli.net/2023/03/08/HrUasviW8dCwzeA.png',
   },
-  description: '月光小镇，一个破破的小镇.',
+  subtitle: 'A, a, a stinky town.',
+  description: 'Lunar Town, a dilapidated town.',
   social: [
     {
       name: 'RSS',
