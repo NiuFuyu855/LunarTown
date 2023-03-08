@@ -17,7 +17,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '云游君的小站',
+      title: '月光小镇',
       cloud: {
         enable: true,
       },
@@ -39,10 +39,10 @@ export default defineValaxyConfig<UserThemeConfig>({
     ],
 
     footer: {
-      since: 2016,
+      since: 2022,
       beian: {
         enable: true,
-        icp: '苏ICP备17038157号',
+        icp: '苏ICP备11451400号',
       },
     },
   },
