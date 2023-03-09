@@ -10,6 +10,7 @@ export default defineSiteConfig({
   },
   subtitle: 'A, a, a stinky town.',
   description: 'Lunar Town, a dilapidated town.',
+  favicon: 'https://s2.loli.net/2023/03/08/HrUasviW8dCwzeA.png',
   social: [
     {
       name: 'RSS',
